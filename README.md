@@ -49,7 +49,7 @@ Data DM3 (rename=(ETHNIC1 =ETHNIC));
 	DTHDTC   = DTH_DAT ;
 	SITEID   = CENTRE  ;
 	BRTHDTC  = BRTHDAT ;
-	AGE		 = AGE ;
+	AGE	 = AGE ;
 	AGEU     = "YEARS" ; 
 
 	If DTHDTC ne " " then DTHFL = "Y" ;
