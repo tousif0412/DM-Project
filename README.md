@@ -1,4 +1,4 @@
-/* Imported raw data into the SAS not TA */
+/* Imported raw data into the SAS  */
 
 libname Raw_data'/home/u63981529/SDTM-DM/Raw_data'; run;
 
